@@ -1,0 +1,16 @@
+br/com/softplan/api/notations/validators/PdfFileValidator.class
+br/com/softplan/api/models/Processo.class
+br/com/softplan/api/ApiSoftplanApplication.class
+br/com/softplan/api/notations/validators/NotEmptyFileValidator.class
+br/com/softplan/api/notations/NotEmptyFile.class
+br/com/softplan/api/repositories/ProcessoRepository.class
+br/com/softplan/api/models/dtos/ResponseDto.class
+br/com/softplan/api/notations/FileSize.class
+br/com/softplan/api/notations/validators/FileSizeValidator.class
+br/com/softplan/api/services/ProcessoService.class
+br/com/softplan/api/models/dtos/ProcessoDto.class
+br/com/softplan/api/swagger/SwaggerConfig.class
+br/com/softplan/api/models/ArquivoDto.class
+br/com/softplan/api/notations/PdfFile.class
+br/com/softplan/api/utils/FileUtils.class
+br/com/softplan/api/resources/ProcessoResource.class

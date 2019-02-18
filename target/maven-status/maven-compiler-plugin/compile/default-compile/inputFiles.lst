@@ -1,0 +1,16 @@
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/validators/PdfFileValidator.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/repositories/ProcessoRepository.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/models/ArquivoDto.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/services/ProcessoService.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/models/Processo.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/utils/FileUtils.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/NotEmptyFile.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/models/dtos/ProcessoDto.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/validators/FileSizeValidator.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/PdfFile.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/resources/ProcessoResource.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/models/dtos/ResponseDto.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/swagger/SwaggerConfig.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/FileSize.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/ApiSoftplanApplication.java
+/Users/dev/projects/java/api_springboot/api-softplan/src/main/java/br/com/softplan/api/notations/validators/NotEmptyFileValidator.java
